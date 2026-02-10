@@ -1,4 +1,3 @@
-// resubmission trigger
 const createLoginTracker = (user) => {
   let failedAttempts = 0;
   const maxAttempts = 3;
